@@ -407,6 +407,5 @@ ul.row {
 }
 
 .card-work:hover .card-outer {
-    transform: scale(0.25);
-
+    transform: scale(0.95);
 }
